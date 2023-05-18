@@ -8,4 +8,6 @@
 ![image](https://github.com/dasobe/example-food-delivery/assets/44791988/8a450914-8523-4c16-8059-3d3ac9be450a)
 
 4.Zero downtime Deployment
+: 배포용 yaml 파일에 readinessProbe 설정
+
 ![image](https://github.com/dasobe/example-food-delivery/assets/44791988/71107cf3-b26c-4561-8220-1c338b922b4b)
